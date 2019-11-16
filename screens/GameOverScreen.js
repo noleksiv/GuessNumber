@@ -4,12 +4,11 @@ import {
     Text,
     StyleSheet,
     Image,
-    ScrollView,
-    Dimensions
+    Dimensions,
+    ScrollView
 } from 'react-native';
 
 import BodyText from '../components/BodyText';
-import TitleText from '../components/TitleText';
 import MainButton from '../components/MainButton';
 import DefaultStyles from '../constants/default-styles';
 
